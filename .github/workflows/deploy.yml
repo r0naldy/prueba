@@ -1,4 +1,4 @@
-name: Terraform S3 Setup
+name: Terraform S3 Setup subieno data
 
 on:
   push:
